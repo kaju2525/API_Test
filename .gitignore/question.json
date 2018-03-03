@@ -1,19 +1,99 @@
 {
   "result": [
     {
-      "question_title": "Do you have any serious health conditions or disability?",
+      "question_title": "Fruits",
       "answer": [
         {
-          "option": "Yes"
+          "option": "Apple"
         },
         {
-          "option": "No"
+          "option": "Mango"
         },
         {
-          "option": "May be"
+          "option": "Banana"
         },
         {
-          "option": "No sure"
+          "option": "Lichi"
+        }
+      ]
+    },
+    {
+      "question_title": "Vegetables",
+      "answer": [
+        {
+          "option": "Onion"
+        },
+        {
+          "option": "cauliflower"
+        },
+        {
+          "option": "potato"
+        },
+        {
+          "option": "Ginger"
+        }
+      ]
+    },
+    {
+      "question_title": "Food Grains",
+      "answer": [
+        {
+          "option": "Aata"
+        },
+        {
+          "option": "Dal"
+        },
+        {
+          "option": "Gram"
+        },
+        {
+          "option": "Corn"
+        },
+        {
+          "option": "Rice"
+        },
+        {
+          "option": "Bread"
+        }
+      ]
+    },
+    {
+      "question_title": "Programming",
+      "answer": [
+        {
+          "option": "C"
+        },
+        {
+          "option": "C++"
+        },
+        {
+          "option": "Java"
+        },
+        {
+          "option": "Android"
+        },
+        {
+          "option": "Kotlin"
+        },
+        {
+          "option": "PHP"
+        },
+        {
+          "option": "Node Js"
+        },
+        {
+          "option": "HTML"
+        }
+      ]
+    },
+    {
+      "question_title": "Highest educational credential as equivalent to Canadian studies?",
+      "answer": [
+        {
+          "option": "Doctoral Degree"
+        },
+        {
+          "option": "Master Degree"
         }
       ]
     },
@@ -74,69 +154,48 @@
       ]
     },
     {
-      "question_title": "Highest educational credential as equivalent to Canadian studies?",
+      "question_title": "City",
       "answer": [
         {
-          "option": "Doctoral Degree"
+          "option": "Mumbai"
         },
         {
-          "option": "Master Degree"
+          "option": "Delhi"
+        },
+        {
+          "option": "Patna"
+        },
+        {
+          "option": "Kamiur"
+        },
+        {
+          "option": "Noida"
+        },
+        {
+          "option": "Pune"
         }
       ]
     },
     {
-      "question_title": "Highest educational credential as equivalent to Canadian studies?",
+      "question_title": "State",
       "answer": [
         {
-          "option": "8th Degree"
+          "option": "Bihar"
         },
         {
-          "option": "10th Degree"
+          "option": "UP"
         },
         {
-          "option": "12th Degree"
+          "option": "Maharsta"
         },
         {
-          "option": "BCA Degree"
+          "option": "Gujrat"
         },
         {
-          "option": "Doctoral Degree"
+          "option": "MP"
         },
         {
-          "option": "Master Degree"
-        }
-      ]
-    },
-    {
-      "question_title": "Highest educational credential as equivalent to Canadian studies?",
-      "answer": [
-        {
-          "option": "Doctoral Degree"
-        },
-        {
-          "option": "Master Degree"
-        }
-      ]
-    },
-    {
-      "question_title": "Highest educational credential as equivalent to Canadian studies?",
-      "answer": [
-        {
-          "option": "Doctoral Degree"
-        },
-        {
-          "option": "Master Degree"
-        }
-      ]
-    },
-    {
-      "question_title": "Highest educational credential as equivalent to Canadian studies?",
-      "answer": [
-        {
-          "option": "Doctoral Degree"
-        },
-        {
-          "option": "Master Degree"
+          "option": "Delhi"
         }
       ]
     }

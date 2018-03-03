@@ -4,19 +4,19 @@
       "question_title": "Fruits",
       "answer": [
         {
-          "id": "12",
+        
           "option": "Apple"
         },
         {
-          "id": "13",
+         
           "option": "Mango"
         },
         {
-          "id": "14",
+         
           "option": "Banana"
         },
         {
-          "id": "15",
+          
           "option": "Lichi"
         }
       ]
@@ -25,19 +25,19 @@
       "question_title": "Vegetables",
       "answer": [
         {
-          "id": "133",
+         
           "option": "Onion"
         },
         {
-          "id": "213",
+          
           "option": "cauliflower"
         },
         {
-          "id": "413",
+        
           "option": "potato"
         },
         {
-          "id": "513",
+         
           "option": "Ginger"
         }
       ]

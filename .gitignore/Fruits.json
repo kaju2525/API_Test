@@ -1,0 +1,44 @@
+{
+  "fruits": [
+    {
+      "id": "6A",
+      "name": "Apple"
+    },
+    {
+      "id": "6B",
+      "name": "Lichi"
+    },
+    {
+      "id": "6C",
+      "name": "Mango"
+    },
+    {
+      "id": "6D",
+      "name": "Guava"
+    },
+    {
+      "id": "6E",
+      "name": "Nuts"
+    },
+    {
+      "id": "6F",
+      "name": "Pine-Apple"
+    },
+    {
+      "id": "6G",
+      "name": "Weather"
+    },
+    {
+      "id": "6H",
+      "name": "Papaya"
+    },
+    {
+      "id": "6I",
+      "name": "Orange"
+    },
+    {
+      "id": "6J",
+      "name": "Banana"
+    }
+  ]
+}

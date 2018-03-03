@@ -1,0 +1,144 @@
+{
+  "result": [
+    {
+      "question_title": "Do you have any serious health conditions or disability?",
+      "answer": [
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "No"
+        },
+        {
+          "option": "May be"
+        },
+        {
+          "option": "No sure"
+        }
+      ]
+    },
+    {
+      "question_title": "Highest educational credential as equivalent to Canadian studies?",
+      "answer": [
+        {
+          "option": "Doctoral Degree"
+        },
+        {
+          "option": "Master Degree"
+        }
+      ]
+    },
+    {
+      "question_title": "Highest educational credential as equivalent to Canadian studies?",
+      "answer": [
+        {
+          "option": "8th Degree"
+        },
+        {
+          "option": "10th Degree"
+        },
+        {
+          "option": "12th Degree"
+        },
+        {
+          "option": "BCA Degree"
+        },
+        {
+          "option": "Doctoral Degree"
+        },
+        {
+          "option": "Master Degree"
+        }
+      ]
+    },
+    {
+      "question_title": "Highest educational credential as equivalent to Canadian studies?",
+      "answer": [
+        {
+          "option": "Doctoral Degree"
+        },
+        {
+          "option": "Master Degree"
+        }
+      ]
+    },
+    {
+      "question_title": "Highest educational credential as equivalent to Canadian studies?",
+      "answer": [
+        {
+          "option": "Doctoral Degree"
+        },
+        {
+          "option": "Master Degree"
+        }
+      ]
+    },
+    {
+      "question_title": "Highest educational credential as equivalent to Canadian studies?",
+      "answer": [
+        {
+          "option": "Doctoral Degree"
+        },
+        {
+          "option": "Master Degree"
+        }
+      ]
+    },
+    {
+      "question_title": "Highest educational credential as equivalent to Canadian studies?",
+      "answer": [
+        {
+          "option": "8th Degree"
+        },
+        {
+          "option": "10th Degree"
+        },
+        {
+          "option": "12th Degree"
+        },
+        {
+          "option": "BCA Degree"
+        },
+        {
+          "option": "Doctoral Degree"
+        },
+        {
+          "option": "Master Degree"
+        }
+      ]
+    },
+    {
+      "question_title": "Highest educational credential as equivalent to Canadian studies?",
+      "answer": [
+        {
+          "option": "Doctoral Degree"
+        },
+        {
+          "option": "Master Degree"
+        }
+      ]
+    },
+    {
+      "question_title": "Highest educational credential as equivalent to Canadian studies?",
+      "answer": [
+        {
+          "option": "Doctoral Degree"
+        },
+        {
+          "option": "Master Degree"
+        }
+      ]
+    },
+    {
+      "question_title": "Highest educational credential as equivalent to Canadian studies?",
+      "answer": [
+        {
+          "option": "Doctoral Degree"
+        },
+        {
+          "option": "Master Degree"
+        }
+      ]
+    }
+  ]
+}
